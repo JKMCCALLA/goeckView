@@ -1,5 +1,5 @@
-**# Technologies Used**
-- Pandas, Numpy, Tensorflow, OpenCV, DeepSort (Kalman Filter)
+**# Technologies Used - **
+Pandas, Numpy, Tensorflow, OpenCV, DeepSort (Kalman Filter)
 
 **# Demo - USF Information Technology**
 
