@@ -1,3 +1,6 @@
+**#Technologies Used**
+Pandas, Numpy, Tensorflow, OpenCV, DeepSort (Kalman Filter)
+
 **# Demo - USF Information Technology**
 
 https://github.com/JKMCCALLA/goeckView/assets/59835986/40fe1232-50f2-4498-8860-98e2ab2efd1f
