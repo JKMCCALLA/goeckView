@@ -1,11 +1,11 @@
 **# Technologies Used** - 
 Pandas, Numpy, Tensorflow, OpenCV, DeepSort (Kalman Filter)
 
-**# Demo - USF Information Technology**
+**# Demo - Vehicle Detection & Tracking**
 
 https://github.com/JKMCCALLA/goeckView/assets/59835986/40fe1232-50f2-4498-8860-98e2ab2efd1f
 
-**# Demo - IEEE Robotics**
+**# Demo - Object Detection & Tracking**
 
 https://github.com/JKMCCALLA/goeckView/assets/59835986/186e51cf-4ef1-4311-9619-19cc8fbc1a62
 
